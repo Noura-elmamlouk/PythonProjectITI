@@ -1,0 +1,58 @@
+[
+  {
+    "first_name": "noura",
+    "last_name": "mohamed",
+    "email": "noura@gmail.com",
+    "password": "123",
+    "mobile": "01013734899",
+    "projects": []
+  },
+  {
+    "first_name": "omar",
+    "last_name": "mohamed",
+    "email": "omar@gmail.com",
+    "password": "123",
+    "mobile": "01232454322",
+    "projects": [
+      {
+        "title": "om",
+        "details": "omaa",
+        "target_amount": "23232",
+        "start_date": "2022-02-02",
+        "end_date": "2023-02-02"
+      }
+    ]
+  },
+  {
+    "first_name": "ahmed",
+    "last_name": "ali",
+    "email": "ahmed@gmail.com",
+    "password": "123",
+    "mobile": "01023213455",
+    "projects": []
+  },
+  {
+    "first_name": "nour",
+    "last_name": "ali",
+    "email": "nour@gmail.com",
+    "password": "123",
+    "mobile": "01023432344",
+    "projects": [
+      {
+        "title": "221",
+        "details": "123",
+        "target_amount": "21312321",
+        "start_date": "2000-02-02",
+        "end_date": "2000-03-03"
+      }
+    ]
+  },
+  {
+    "first_name": "noura",
+    "last_name": "elmamlouk",
+    "email": "nouraelmamlouk@gmail.com",
+    "password": "123",
+    "mobile": "01023435466",
+    "projects": []
+  }
+]
